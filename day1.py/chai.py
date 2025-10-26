@@ -1,7 +1,10 @@
 from hello_chai import chai, chai2
 import math
 chai("ginger tea")
-chai2("lemmon tea")
+chai2("lemmon tea and ,coffee ginger tea")
+
+
+
 # chai1("massala tea")
 
 # git add README.git commit -m "first commit" git branch -M main
