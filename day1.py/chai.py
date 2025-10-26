@@ -2,6 +2,7 @@ from hello_chai import chai, chai2
 import math
 chai("ginger tea")
 chai2("lemmon tea and ,coffee ginger tea")
+chai3("lemmon tea and ,coffee ginger tea")
 
 
 
